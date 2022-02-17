@@ -26,6 +26,7 @@ namespace CSharp_Exercicio_01
 
             Console.WriteLine("Medida com oito casas decimais: " + medida.ToString("F8", CultureInfo.InvariantCulture));
             Console.WriteLine("Arredondando três casas decimais:" + medida.ToString("F3", CultureInfo.InvariantCulture));
+            //teste
         }
     }
 }
